@@ -1,2 +1,10 @@
 # HelloWorld
-just play
+//just play
+
+#include<stdio.h>
+
+int main()
+{
+    printf("hello world");
+    return 0;
+}
