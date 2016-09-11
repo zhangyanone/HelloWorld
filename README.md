@@ -1,7 +1,7 @@
 # HelloWorld
-//just play
+just play
 
-#include<stdio.h>
+#include<stdio.h>  
 
 int main()
 {
